@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="app_name">BUDGETAPP</string>
+    <string name="title_activity_gooals">gooals</string>
+
+    <!-- Accounts Page -->
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="accounts">Accounts</string>
+
+    <!-- Net Worth -->
+    <string name="your_net_worth">Your Net Worth</string>
+    <string name="zero_dollars">R0.00</string>
+    <string name="zero_percent">+0%</string>
+    <string name="from_last_month">from last month</string>
+
+    <!-- Assets & Liabilities -->
+    <string name="assets">Assets</string>
+    <string name="liabilities">Liabilities</string>
+
+    <!-- Accounts & Expenses -->
+    <string name="accounts_expenses">Accounts &amp; Expenses</string>
+
+    <!-- Account Types -->
+    <string name="checking_account">Checking Account</string>
+    <string name="checking">Checking</string>
+
+    <string name="savings_account">Savings Account</string>
+    <string name="savings">Savings</string>
+
+    <string name="credit_card">Credit Card</string>
+    <string name="debt">Debt</string>
+
+    <string name="cash">Cash</string>
+
+    <!-- Expense Categories -->
+    <string name="expense_categories">Expense Categories</string>
+
+    <string name="dining">Dining</string>
+    <string name="food_restaurants">Food &amp; Restaurants</string>
+
+    <string name="entertainment">Entertainment</string>
+    <string name="movies_games_etc">Movies, Games, etc.</string>
+
+    <string name="transportation">Transportation</string>
+    <string name="gas_uber_public_transit">Gas, Uber, Public Transit</string>
+
+    <string name="grocery">Grocery</string>
+    <string name="supermarket_food">Supermarket &amp; Food</string>
+
+    <string name="money_saved">Money Saved</string>
+
+    <!-- Budget -->
+    <string name="monthly_budget_progress">Monthly Budget Progress</string>
+    <string name="budget_used">Budget Used</string>
+    <string name="zero_percent_text">0%</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">Home</string>
+    <string name="envelopes">Envelopes</string>
+    <string name="goals">Goals</string>
+
+    <!-- Buttons -->
+    <string name="save_changes">SAVE CHANGES</string>
+    <string name="saving">Saving...</string>
+
+</resources>
